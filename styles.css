@@ -166,8 +166,22 @@ section .wave.wave4{
 @media (max-width: 1199px){
 
   h1{
+    font-size: 6rem;
+  }
+
+  h2{
     font-size: 5rem;
   }
+
+  h4{
+    font-size: 4rem;
+  }
+
+  p{
+    font-size: 3rem;
+  }
+
+
 
   .navbar{
     padding: 0;
