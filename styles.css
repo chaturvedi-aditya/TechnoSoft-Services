@@ -2,7 +2,7 @@ body{
   font-family: 'Roboto Slab', serif;
   color: #00204a;
   line-height: 1.6;
-  font-size: 20px;
+
 }
 
 h1{
@@ -178,7 +178,7 @@ section .wave.wave4{
   }
 
   p{
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
 
