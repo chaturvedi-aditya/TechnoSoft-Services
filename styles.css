@@ -164,9 +164,30 @@ section .wave.wave4{
 }
 
 @media (max-width: 1199px){
+
+  h1{
+    font-size: 5rem;
+  }
+
   .navbar{
     padding: 0;
   }
+
+  .navbar-toggler-icon{
+    width: 5rem;
+    height: 5rem;
+  }
+
+  img.logo{
+    width: 140%;
+  }
+
+  .nav-link{
+    font-size: 4rem;
+  }
+
+
+
   .Header{
     padding: 0;
   }
